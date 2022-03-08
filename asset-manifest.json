@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Diapmusic/mk.git/static/css/main.906fc289.chunk.css",
+    "main.js": "/Diapmusic/mk.git/static/js/main.d41461f0.chunk.js",
+    "main.js.map": "/Diapmusic/mk.git/static/js/main.d41461f0.chunk.js.map",
+    "runtime-main.js": "/Diapmusic/mk.git/static/js/runtime-main.d1a7c80f.js",
+    "runtime-main.js.map": "/Diapmusic/mk.git/static/js/runtime-main.d1a7c80f.js.map",
+    "static/js/2.146b5e15.chunk.js": "/Diapmusic/mk.git/static/js/2.146b5e15.chunk.js",
+    "static/js/2.146b5e15.chunk.js.map": "/Diapmusic/mk.git/static/js/2.146b5e15.chunk.js.map",
+    "index.html": "/Diapmusic/mk.git/index.html",
+    "static/css/main.906fc289.chunk.css.map": "/Diapmusic/mk.git/static/css/main.906fc289.chunk.css.map",
+    "static/js/2.146b5e15.chunk.js.LICENSE.txt": "/Diapmusic/mk.git/static/js/2.146b5e15.chunk.js.LICENSE.txt",
+    "static/media/blog01.cefc0932.png": "/Diapmusic/mk.git/static/media/blog01.cefc0932.png",
+    "static/media/blog02.ab0eb367.png": "/Diapmusic/mk.git/static/media/blog02.ab0eb367.png",
+    "static/media/blog03.d9223238.png": "/Diapmusic/mk.git/static/media/blog03.d9223238.png",
+    "static/media/blog04.742c1357.png": "/Diapmusic/mk.git/static/media/blog04.742c1357.png",
+    "static/media/blog05.bfaa1c1e.png": "/Diapmusic/mk.git/static/media/blog05.bfaa1c1e.png",
+    "static/media/logo3.914bc7a6.png": "/Diapmusic/mk.git/static/media/logo3.914bc7a6.png",
+    "static/media/people.5cd2d6fb.png": "/Diapmusic/mk.git/static/media/people.5cd2d6fb.png",
+    "static/media/possibility.525f13b6.png": "/Diapmusic/mk.git/static/media/possibility.525f13b6.png",
+    "static/media/spec.fdeef148.jpg": "/Diapmusic/mk.git/static/media/spec.fdeef148.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1a7c80f.js",
+    "static/js/2.146b5e15.chunk.js",
+    "static/css/main.906fc289.chunk.css",
+    "static/js/main.d41461f0.chunk.js"
+  ]
+}
